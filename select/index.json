@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "TEKUMAKUMAYAKON",
+  "base_artist": "Elephant Kashimashi",
+  "createdAt": "2026-02-19T15:34:08.080242Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TEKUMAKUMAYAKON",
+      "artist": "エレファントカシマシ",
+      "has_synced": false,
+      "path": "select/pl_01_TEKUMAKUMAYAKON_エレファントカシマシ.txt"
+    }
+  ]
+}
